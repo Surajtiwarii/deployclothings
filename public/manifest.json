@@ -1,0 +1,21 @@
+{
+  "name": "DEPLOY — Ready to Wear, Ready to Deploy",
+  "short_name": "DEPLOY",
+  "description": "DEPLOY: Original-design premium streetwear t-shirt studio.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FBFBF9",
+  "theme_color": "#FBFBF9",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
