@@ -154,7 +154,7 @@ export default function ShopCatalogView({
 
   const toggleGsm = (gsm: number) => {
     setSelectedGsm((prev) =>
-      prev.includes(gsm) ? prev.filter((g) => g !== g) : [...prev, g]
+      prev.includes(gsm) ? prev.filter((g) => g !== gsm) : [...prev, gsm]
     );
   };
 
